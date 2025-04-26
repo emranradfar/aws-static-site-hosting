@@ -29,7 +29,7 @@ This project demonstrates how to host a simple static website on AWS using the *
 
 ## 📸 Screenshots
 
-Stored under `/aws-static-site-screenshots` showing setup steps in the AWS Console:
+Stored under `/aws-static-site-screenshots` showing configurations in the AWS Console:
 
 ### **S3 Properties**
 ![S3 Properties](aws-static-site-screenshots/s3staticwebsiteproperties.jpeg)
