@@ -29,6 +29,10 @@ This project demonstrates how to host a simple static website on AWS using the *
 
 ## 📸 Screenshots
 
+### **AWS Static Website Deployment Architecture**
+![AWS Static Website Deployment Architecture](aws-static-site-screenshots/AWS-STATIC-WEBSITE-AWSMC.png)
+This screenshot displays the architecture of the static website deployment on AWS, showcasing the integration of S3 for website hosting, CloudFront for content delivery, and the overall deployment workflow.
+
 Stored under `/aws-static-site-screenshots` showing configurations in the AWS Console:
 
 ### **S3 Properties**
